@@ -1,0 +1,16 @@
+https://mnstats.morris.umn.edu/multivariatestatistics/syllabus.html
+
+https://www.columbia.edu/cu/business/courses/download/B8832-XX/jedidi/syllabus.html
+
+https://www.uh.edu/nsm/math/undergraduate/courses/math4339/index.php
+
+
+
+
+
+
+A common syllabus for bachelor-level multivariate statistics includes foundational topics like matrix algebra, the multivariate normal distribution, and sample geometry, followed by core techniques such as principal component analysis (PCA), factor analysis, cluster analysis, multivariate regression, Multivariate Analysis of Variance (MANOVA), and discriminant and classification analysis. The syllabus typically emphasizes both the theoretical concepts and practical applications, often involving statistical software like R for analyzing real-world datasets and performing projects. 
+
+
+Description
+This course covers statistical methods used for analysis of data sets that contain more than one variable. Topics include multivariate normal distribution, covariance, inference about a mean vector, MANOVA, regression, and classification. Enrollment Requirements: Math 313 and DATA/MATH 363.
